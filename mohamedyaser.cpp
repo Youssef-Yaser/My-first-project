@@ -1,5 +1,5 @@
-#include <algorithm>
 #include <iostream>
+#include <algorithm>
 #include <string>
 using namespace std;
 void binary_youssef(int a) {
